@@ -24,7 +24,7 @@ class QuizController extends GetxController {
   void openMenu() {
     isMenuOpen.toggle();
   }
-//
+
   @override
   void onReady() {
     final _quizePaprer = Get.arguments as QuizPaperModel;
