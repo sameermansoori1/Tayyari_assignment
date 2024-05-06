@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "868645499081",
+    "project_id": "tayyari-assignment",
+    "storage_bucket": "tayyari-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868645499081:android:9fd44e47a17b407ab85d18",
+        "android_client_info": {
+          "package_name": "com.example.tayyari_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868645499081-2o6pqla4rkjbogihrvq1bp7c6u16q8m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tayyari_assignment",
+            "certificate_hash": "c5dca54e3d7a4135153bcfa0af39c237650739c1"
+          }
+        },
+        {
+          "client_id": "868645499081-oaq0849tp43k3jbbajhprp7q5ovpibnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7cWCZFtbPLBzlsl1WAKWSexjnLKMpE-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868645499081-oaq0849tp43k3jbbajhprp7q5ovpibnk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868645499081-073bs2b11r6crbvon3sa919u42ijtd64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tayyariAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
