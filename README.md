@@ -16,7 +16,7 @@ Welcome Screen
 
 Home Screen
 
-![Home Screen (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/c888e9ce-72df-413a-a510-6e925250442c)
+![Home Screen (2)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/86377791-20b3-42f0-9d51-536ac4b9cbac)
 
 Zoomed Drawer
 
@@ -24,7 +24,7 @@ Zoomed Drawer
 
 Authentication Screen
 
-![Authentication Screen (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/581ef8de-9ca1-43b7-aa76-b70bfc0e10ee)
+![Authentication Screen (2)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/bbe4d0a7-4d27-4c6c-be32-bc3fddc09e76)
 
 Test Screen
 
