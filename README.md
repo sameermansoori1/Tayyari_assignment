@@ -10,6 +10,37 @@ Splash Screen
 
 ![Splash Screen (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/9a5ad3c8-582a-4535-9c2f-5e713426d221)
 
+Welcome Screen
+
+![Welcome Screen (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/a48be912-8ae2-48da-b0bb-f72cd0b7e629)
+
+Home Screen
+
+![Home Screen (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/c888e9ce-72df-413a-a510-6e925250442c)
+
+Zoomed Drawer
+
+![Zoomed Drawer (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/16ae0f53-ea6b-4dc5-adc9-9292fe540c29)
+
+Authentication Screen
+
+![Authentication Screen (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/581ef8de-9ca1-43b7-aa76-b70bfc0e10ee)
+
+Test Screen
+
+![Test Screen (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/2b9db4e3-3543-41d4-a768-7c00ad762952)
+
+Question's Navigation
+
+![Question's Navigation (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/e3923f36-3342-46f4-a53c-fdd6761214cb)
+
+Answer Overview
+
+![Question's Navigation (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/e3923f36-3342-46f4-a53c-fdd6761214cb)
+
+Result Screen
+
+![Result Screen (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/94b11372-3d3a-44d6-9173-479ea252813e)
 
 
 ## Features
