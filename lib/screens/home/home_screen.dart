@@ -76,7 +76,7 @@ class HomeScreen extends GetView<MyDrawerController> {
                           ],
                         ),
                       ),
-                      const Text(' You Can Just Click On Quiz to Start. ',
+                      const Text('You Can Just Click On Quiz to Start. ',
                           style: kHeaderTS),
                       const SizedBox(height: 15),
                     ],
