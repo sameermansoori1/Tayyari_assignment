@@ -10,7 +10,7 @@ const kDetailsTS = TextStyle(fontSize: 12);
 
 TextStyle cardTitleTs(context) => TextStyle(
     color: UIParameters.isDarkMode(context)
-        ? Theme.of(context).textTheme.bodyText1!.color
+        ? Theme.of(context).primaryColor
         : Theme.of(context).primaryColor,
     fontSize: 18,
     fontWeight: FontWeight.bold);
@@ -23,7 +23,7 @@ const kAppBarTS = TextStyle(
 TextStyle countDownTimerTs(context) => TextStyle(
     letterSpacing: 2,
     color: UIParameters.isDarkMode(context)
-        ? Theme.of(context).textTheme.bodyText1!.color
+        ? Theme.of(context).primaryColor
         : Theme.of(context).primaryColor,
     fontSize: 16,
     fontWeight: FontWeight.bold);

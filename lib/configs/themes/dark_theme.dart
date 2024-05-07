@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'sub_theme_data_mixin.dart';
 
-const Color kPrimayColorDT = Color.fromARGB(255, 70, 14, 160);
-const Color kPrimayLightColorDT = Color.fromARGB(255, 92, 15, 210);
+const Color kPrimayColorDT = Colors.blue;
+const Color kPrimayLightColorDT = Colors.lightBlue;
 const Color appBarIconColorDT = Colors.white;
-const Color mainTextColorDT = Colors.white;
+const Color mainTextColorDT =Color.fromARGB(255, 40, 40, 40);
 const Color iconColorDT = Colors.white;
 const Color shadowColorDT = Color.fromARGB(90, 172, 172, 172);
-const Color cardColorDT = Color.fromARGB(255, 28, 40, 84);
-const Color scaffoldBackgroundColor = Color.fromARGB(255, 20, 20, 40);
+const Color cardColorDT = Color.fromARGB(255, 254, 254, 255);
+const Color scaffoldBackgroundColor =Color.fromARGB(255, 240, 237, 255);
 
 class DarkTheme with SubThemeData {
   ThemeData buildDarkTheme() {

@@ -23,7 +23,7 @@ class QuizPaperCard extends GetView<QuizPaperController> {
     return Ink(
       decoration: BoxDecoration(
         borderRadius: UIParameters.cardBorderRadius,
-        color: Theme.of(context).cardColor,
+        color: Colors.white,
       ),
       child: InkWell(
         borderRadius: UIParameters.cardBorderRadius,
@@ -44,7 +44,7 @@ class QuizPaperCard extends GetView<QuizPaperController> {
                       borderRadius: UIParameters.cardBorderRadius,
                       child: ColoredBox(
                           color:
-                              Theme.of(context).primaryColor.withOpacity(0.1),
+                             Colors.blue.withOpacity(0.1),
                           child: SizedBox(
                             width: 65,
                             height: 65,
@@ -63,8 +63,8 @@ class QuizPaperCard extends GetView<QuizPaperController> {
                           style: cardTitleTs(context),
                         ),
                         Padding(
-                          padding: const EdgeInsets.only(top: 10, bottom: 15),
-                          child: Text(model.description),
+                          padding:  EdgeInsets.only(top: 10, bottom: 15),
+                          child: Text(model.description,style: TextStyle(color: Colors.black.withOpacity(0.8)),),
                         ),
                         FittedBox(
                           fit: BoxFit.scaleDown,

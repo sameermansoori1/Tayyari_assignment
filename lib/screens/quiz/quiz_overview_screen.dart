@@ -36,7 +36,7 @@ class QuizOverviewScreen extends GetView<QuizController> {
                     children: [
                       CountdownTimer(
                         color: UIParameters.isDarkMode(context)
-                            ? Theme.of(context).textTheme.bodyText1!.color
+                            ? Theme.of(context).primaryColor
                             : Theme.of(context).primaryColor, time: '',
                       ),
                       Obx(

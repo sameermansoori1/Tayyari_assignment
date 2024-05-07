@@ -26,6 +26,7 @@ class QuizeScreen extends GetView<QuizController> {
     return WillPopScope(
       onWillPop: controller.onExitOfQuiz,
       child: Scaffold(
+
           extendBodyBehindAppBar: true,
           appBar: CustomAppBar(
             leading: Container(

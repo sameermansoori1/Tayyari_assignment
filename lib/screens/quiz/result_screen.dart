@@ -22,7 +22,7 @@ class Resultcreen extends GetView<QuizController> {
   @override
   Widget build(BuildContext context) {
     final Color _textColor = UIParameters.isDarkMode(context)
-        ? Colors.white
+        ? Theme.of(context).primaryColor
         : Theme.of(context).primaryColor;
 
     return WillPopScope(
