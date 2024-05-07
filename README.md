@@ -5,8 +5,10 @@ Developed an application using the Flutter & Firebase. Focus on creating an intu
 
 
 ## Screenshots/Gif
-SPLASH SCREEN
-![Splash Screen](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/dc40e398-00bd-4391-bdc6-004a3e91b7a6)
+
+Splash Screen
+
+![Splash Screen (1)](https://github.com/sameermansoori1/Tayyari_assignment/assets/88525320/9a5ad3c8-582a-4535-9c2f-5e713426d221)
 
 
 
