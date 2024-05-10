@@ -53,7 +53,7 @@ Result Screen
 
 
 ## 🚀 About Me
-I'm Sameer Mansoori, a skilled Flutter developer with more than one year of experience and a passion for open source. I'm eager to bring my Flutter expertise to your team at Shoshin.tech.
+I'm Sameer Mansoori, a skilled Flutter developer with more than one year of experience and a passion for open source. I'm eager to bring my Flutter expertise to your team at Tayyari.
 
 My Flutter proficiency, open-source contributions, and problem-solving skills make me an asset for your projects. I'm enthusiastic about the innovation and excellence I see in your company.
 
